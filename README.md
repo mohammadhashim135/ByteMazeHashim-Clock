@@ -1,6 +1,6 @@
 # ByteMazeHashim Clock
 
-![Clock](https://github.com/mohammadhashim135/ByteMazeHashim-Clock/raw/104ffb29a8c3f3f547a31901b78c1d3689a1592a/Clock.png)
+![Clock](https://github.com/mohammadhashim135/ByteMazeHashim-Clock/blob/0d6e6284ffe935901e33e3ad1815f5d3408a83af/Clock.png)
 
 ## Description
 
