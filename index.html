@@ -11,8 +11,29 @@
 <body>
     <div class="container">
         <h1 style="color: #009688;">ByteMazeHashim's</h1>
+        <button id="musicButton">Play Music</button> <!-- Music button -->
         <canvas id="canvas" width="500" height="500">Your browser does not support the HTML5 canvas tag.</canvas>
     </div>
+
+    <audio id="bgMusic" autoplay loop>
+        <source src="bgm.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+  
     <script src="script.js"></script>
+    <script>
+        const musicButton = document.getElementById('musicButton');
+        const bgMusic = document.getElementById('bgMusic');
+
+        musicButton.addEventListener('click', () => {
+            if (bgMusic.paused) {
+                bgMusic.play();
+                musicButton.textContent = 'Pause Music';
+            } else {
+                bgMusic.pause();
+                musicButton.textContent = 'Play Music';
+            }
+        });
+    </script>
 </body>
 </html>
