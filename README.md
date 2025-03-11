@@ -23,7 +23,7 @@ To use the ByteMazeHashim Clock, simply clone the repository and open the `index
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to this project, please fork the repository and create a pull request with your changes.
+Contributions are welcome! If you'd like to contribute to this project then please fork the repository and create a pull request with your changes.
 
 
 ## Author
