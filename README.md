@@ -8,7 +8,7 @@ The ByteMazeHashim Clock is a stylish and functional digital clock created by Mo
 
 ## Features
 
-- Displays current time and date.
+- Displays current Time and Date.
 - Stylish and minimalist design.
 - Customizable color scheme.
 
