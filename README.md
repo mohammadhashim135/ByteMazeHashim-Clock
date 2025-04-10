@@ -1,4 +1,4 @@
-# Tic-Tic Toc-Toc
+## Tic-Tic Toc-Toc
 
 ![Clock](https://github.com/mohammadhashim135/ByteMazeHashim-Clock/blob/0d6e6284ffe935901e33e3ad1815f5d3408a83af/Clock.png)
 
